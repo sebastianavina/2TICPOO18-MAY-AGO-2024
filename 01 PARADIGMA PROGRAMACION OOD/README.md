@@ -61,15 +61,23 @@ Estructuras de control
 
 ### FOR
 
--
+Calculo de pi por metodo de monte carlo y/o metodo de integrales
+
 
 ### WHILE
 
--
+Calculo de pi por series de taylor
+
 
 ## Primer proyecto semanal (PS01)
 
-Calculo de pi por metodo de monte carlo, series de taylor y/o metodo de integrales
+Hacer una aplicación sencilla, que entregue cuatro opciones
+
+a) Calcular área de un rectangulo
+b) Calcular el área de un circulo
+c) Calcular el área de un triangulo
+
+Llamar una funcion diferente para el calculo de cada uno de los valores
 
 SEMANA 02
 =========
