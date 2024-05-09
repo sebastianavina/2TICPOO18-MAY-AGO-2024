@@ -76,6 +76,7 @@ Hacer una aplicación sencilla, que entregue cuatro opciones
 a) Calcular área de un rectangulo
 b) Calcular el área de un circulo
 c) Calcular el área de un triangulo
+e) Salir del programa
 
 Llamar una funcion diferente para el calculo de cada uno de los valores
 
