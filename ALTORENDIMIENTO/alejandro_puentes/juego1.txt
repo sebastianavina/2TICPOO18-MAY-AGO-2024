@@ -1,0 +1,5 @@
+x        
+xo       
+xo  x    
+xo  x o  
+xo  x o x
