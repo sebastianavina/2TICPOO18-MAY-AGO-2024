@@ -1,0 +1,9 @@
+*.Identifier
+*.log
+*.aux
+*~
+*.out
+*.tmp
+*.pyc
+__pychache__
+ALTORENDIMIENTO/PRIMERDJANGO/env/*
