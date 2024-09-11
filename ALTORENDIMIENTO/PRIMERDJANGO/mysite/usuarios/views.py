@@ -3,7 +3,7 @@ from django.shortcuts import render
 # Create your views here.
 from django.http import HttpResponse
 
-#from models import Usuario, Materia
+#from .models import Usuario, Materia
 
 
 def index(request):
@@ -11,10 +11,10 @@ def index(request):
 
     respuesta = "aqui son los agregados"
 
-    usuarios = Usuario.objects.all()
+    #usuarios = Usuario.objects.all()
 
-    for u in usuarios:
-        respuesta += u.usuario + "<br />"
+    #for u in usuarios:
+    #    respuesta += u.usuario + "<br />"
     
     return HttpResponse(respuesta)
 
